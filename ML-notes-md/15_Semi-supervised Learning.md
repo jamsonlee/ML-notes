@@ -51,7 +51,7 @@ unlabeled data虽然只有input，但它的**分布**，却可以告诉我们一
 
 <center><img src="https://gitee.com/Sakura-gh/ML-notes/raw/master/img/semi-help2.png" width="50%;"/></center>
 
-semi-supervised learning的使用往往伴随着假设，而该假设的合理与否，决定了结果的好坏程度；比如上图中的unlabeled data，它显然是一只狗，而特征分布却与猫被划分在了一起，很可能是由于这两张图片的背景都是绿色导致的，因此假设是否合理显得至关重要
+**semi-supervised learning的使用往往伴随着假设，而该假设的合理与否，决定了结果的好坏程度**；比如上图中的unlabeled data，它显然是一只狗，而特征分布却与猫被划分在了一起，很可能是由于这两张图片的背景都是绿色导致的，因此假设是否合理显得至关重要
 
 #### Semi-supervised Learning for Generative Model
 
